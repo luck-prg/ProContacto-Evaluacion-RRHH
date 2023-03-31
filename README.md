@@ -92,9 +92,9 @@ El key content-type en un header se utiliza para proporcionar al cliente el tipo
 
 
 ## EJERCICIO 3
-![Ejercicio 1](Captura.PNG)
+![Ejercicio 1](img/Captura.PNG)
 
-![ejercicio 2](Captura2.PNG)
+![ejercicio 2](img/Captura2.PNG)
 
 En el punto 1 vimos como al realizar un metodo GET el servidor nos devuelve un recurso en formato JSON el cual contiene una cantidad X de informacion sobre usuarios con sus respectivos mails y nombres, los cuales se pueden identificar por un TOKEN. En cambio, en el punto 2 vimos como al realizar un metodo POST mandamos un recurso al servidor con informacion del cliente, la cual el servidor GUARDA en la base de datos y nos devuelve como respuesta el codigo TOKEN de nuestra informacion.
 
@@ -126,7 +126,7 @@ Los registros mencionados son:
 
 Diagrama resuelto con la vinculacion pedida: 
 
-![ejercicio 5](ejercicio_diagrama.png)
+![ejercicio 5](img/ejercicio_diagrama.png)
 
 
 ## EJERCICIO 6 
@@ -295,7 +295,7 @@ Salesforce es un CRM, utilizado para gestionar la relación con los clientes.
 
 #### Punto A) ID escogida: -N3p_NX2MSS2sIbmQMSp
 
-![ejercicio 7](ejercicio7.PNG)
+![ejercicio 7](img/ejercicio7.PNG)
 
 #### Punto C) Imagenes del codigo: 
 
